@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'net_explore'
+NetExplore.open_url ARGV[0]
